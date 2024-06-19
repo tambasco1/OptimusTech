@@ -1,0 +1,35 @@
+.feedb{
+    text-align: center;
+    background-color: var(--borda);
+    margin: 2em 6em;
+    padding: 3em;
+    
+}
+.feedb_titulo{
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--vermelho);
+    padding-bottom: 1em;
+}
+.feedb_secu{
+    font-size: 36px;
+    font-weight: 500;
+    color: var(--azul-escuro);
+    padding: 0 7em;
+}
+.feedb_nome{
+    font-size: 16px;
+    font-weight: 500;
+    color: var(--azul-escuro);
+   
+    
+}
+.feed_descr{
+    font-size: 14px;
+    font-weight: 400;
+    color: var(--cinza);
+    padding: 1em;
+}
+.feed_imag{
+    padding: 1em;
+}
